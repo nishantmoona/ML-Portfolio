@@ -1,4 +1,4 @@
-# ML Portfolio
+# Machine Learning Portfolio
 
 A collection of machine learning projects including regression, classification, neural networks built in Jupyter notebooks.
 Models used: Linear Regression, Lasso Regularization (L1), Ridge Regularization (L2), Logistic Regression, Decision Tree Regression/Classification, Random Forest Regression/Classification, SVC Regression/Classification, MLP Regression/CLassification, Neural Networks, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Long-Short Term Memory (LSTM).

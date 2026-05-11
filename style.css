@@ -550,17 +550,6 @@ footer {
     padding: 95px 0 58px;
   }
 
-  .hero h1::after {
-    width: 88px;
-    height: 5px;
-    margin-top: 14px;
-  }
-
-  .subtitle {
-    font-size: 1rem;
-    line-height: 1.75;
-  }
-  
   .glass-card {
     padding: 26px 22px;
   }
@@ -571,15 +560,7 @@ footer {
 }
 
 @media (max-width: 640px) {
-  .hero {
-    padding: 82px 0 48px;
-  }
-
-  .hero-content {
-    padding: 18px 10px 8px;
-  }
-
-  .hero h1 {
+   .hero h1 {
     font-size: 2.45rem;
     line-height: 1.02;
   }

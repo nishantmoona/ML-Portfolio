@@ -110,6 +110,30 @@ body {
   max-width: 860px;
   margin: 0 auto;
 }
+.hero-badges {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.theme-badge {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: #24140d;
+  background: linear-gradient(135deg, var(--accent), var(--primary));
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 116, 0, 0.18);
+  box-shadow:
+    0 8px 18px rgba(255, 116, 0, 0.14),
+    inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
 
 .eyebrow {
   display: inline-block;
@@ -507,4 +531,9 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+}
+
+.hero-badges {
+  flex-direction: column;
+  gap: 10px;
 }

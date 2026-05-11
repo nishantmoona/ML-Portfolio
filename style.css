@@ -489,13 +489,10 @@ footer {
 @media (max-width: 640px) {
    .hero h1 {
     font-size: 2.45rem;
-    line-height: 1.02;
   }
 
   .subtitle {
     font-size: 0.98rem;
-    line-height: 1.7;
-    padding: 0;
   }
 }
   .projects-grid {
@@ -510,7 +507,6 @@ footer {
     flex-direction: column;
     align-items: center;
   }
-}
 
 .hero-badges {
   flex-direction: column;
@@ -522,4 +518,3 @@ footer {
     letter-spacing: 0.13em;
     padding: 10px 14px;
   }
-}

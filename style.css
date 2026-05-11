@@ -508,11 +508,6 @@ footer {
     align-items: center;
   }
 
-.hero-badges {
-  flex-direction: column;
-  gap: 10px;
-}
-
   .premium-badge {
     font-size: 0.82rem;
     letter-spacing: 0.13em;
